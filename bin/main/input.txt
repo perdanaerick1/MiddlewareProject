@@ -1,0 +1,18 @@
+Create 6
+Insert Supplier-S001 1500 100
+Insert Supplier-S002 2500 300
+Insert Supplier-S003 1750 250
+Insert Supplier-S004 1250 1000
+Insert Supplier-S005 1850 95
+Insert Supplier-S006 1900 34
+Insert Supplier-S007 3000 123
+Show
+Min latency
+Min Price
+Delete Supplier-S004
+Delete 6
+Insert Supplier-S007 3000 123
+Show
+Min latency
+Min Price
+Find 1850
